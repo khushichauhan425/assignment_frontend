@@ -1,0 +1,9 @@
+.summary{
+    display: flex;
+    color: white;
+    border: 5px solid lightskyblue;
+    padding: 10px;
+    flex-wrap: wrap;
+    margin: 20px;
+    border-radius: 25px;
+}
